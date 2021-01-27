@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\bin\Debug\AdoNetFactoryEncryptHash.exe.config
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\bin\Debug\AdoNetFactoryEncryptHash.exe
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\UsersForm.g.cs
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash_MarkupCompile.cache
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash_MarkupCompile.lref
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\UsersForm.baml
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash.g.resources
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash.Properties.Resources.resources
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash.exe
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash.pdb
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\obj\Debug\AdoNetFactoryEncryptHash.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AdoNetFactoryEncryptHash\AdoNetFactoryEncryptHash\bin\Debug\AdoNetFactoryEncryptHash.pdb
